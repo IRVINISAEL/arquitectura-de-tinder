@@ -2,7 +2,7 @@
 
 ## Introducción
 Tinder, lanzada en 2012, es una plataforma global de citas en línea disponible en más de 190 países.  
-Su naturaleza se basa en alto volumen de interacciones —millones de swipes diarios—, haciendo crucial una arquitectura que permita **escalabilidad, baja latencia, disponibilidad global y seguridad**, especialmente ante tráfico malicioso y protección de datos sensibles.
+Su naturaleza se basa en alto volumen de interacciones millones de swipes diarios, haciendo crucial una arquitectura que permita **escalabilidad, baja latencia, disponibilidad global y seguridad**, especialmente ante tráfico malicioso y protección de datos sensibles.
 
 ## Arquitectura
 
