@@ -29,6 +29,11 @@ Su naturaleza se basa en alto volumen de interacciones millones de swipes diario
 - **Consistencia de datos**: Kafka asegura el orden en los eventos y sincronización en los geoshards.  
 - **Seguridad**: TAG filtra bots, aplica autenticación y protege de tráfico malicioso.  
 
+
+# Arquitectura de Tinder
+
+![Arquitectura de Tinder](./imageness/tinder.png)
+
 ## Requerimientos
 
 ### Funcionales
