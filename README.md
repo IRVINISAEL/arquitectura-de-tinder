@@ -32,7 +32,7 @@ Su naturaleza se basa en alto volumen de interacciones millones de swipes diario
 
 # Arquitectura de Tinder
 
-![Arquitectura de Tinder](./imageness/tinder.png)
+![Arquitectura de Tinder](./tinder.png)
 
 ## Requerimientos
 
